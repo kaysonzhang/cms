@@ -1,0 +1,8 @@
+[2020-08-01 16:29:59][debug][error]:[A void function must not return a value at file:/data/www/stock/App/HttpController/Index.php line:45]
+[2020-08-01 17:14:53][debug][error]:[A void function must not return a value at file:/data/www/stock/App/HttpController/Index.php line:45]
+[2020-08-01 17:17:09][debug][error]:[A void function must not return a value at file:/data/www/stock/App/HttpController/Index.php line:45]
+[2020-08-01 17:21:14][debug][error]:[A void function must not return a value at file:/data/www/stock/App/HttpController/Index.php line:45]
+[2020-08-01 17:33:10][debug][error]:[SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock.k_user' doesn't exist at file:/data/www/stock/vendor/topthink/think-orm/src/db/PDOConnection.php line:771]
+[2020-08-01 20:28:40][debug][error]:[SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock.k_user' doesn't exist at file:/data/www/stock/vendor/topthink/think-orm/src/db/PDOConnection.php line:771]
+[2020-08-01 20:31:02][debug][error]:[SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock.k_user' doesn't exist at file:/data/www/stock/vendor/topthink/think-orm/src/db/PDOConnection.php line:771]
+[2020-08-01 20:31:10][debug][error]:[SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock.k_user' doesn't exist at file:/data/www/stock/vendor/topthink/think-orm/src/db/PDOConnection.php line:771]
